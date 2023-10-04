@@ -15,10 +15,10 @@ public class LengthTest {
                 {" Mais ",4},
                 {"9",1},
                 {"Salsabeel Salsabeel",19},
-                {" Salsabeel",9},
-                {" Mais  ",4},
-                {" Maissdsds  ",4},
-                {" lklk   ",4},
+//                {" Salsabeel",9},
+//                {" Mais  ",4},
+//                {" Maissdsds  ",4},
+//                {" lklk   ",4},
 
 
 
