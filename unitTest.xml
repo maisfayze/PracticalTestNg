@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Practice Suite">
+    <test name="Mark">
+
+        <classes>
+            <class name="Example2Test"/>
+        </classes>
+    </test> <!-- Test -->
+    <test name="Factorial">
+        <classes>
+            <class name="Example2Test"/>
+        </classes>
+
+    </test>
+    <test name="Division">
+        <classes>
+            <class name="ExampleTest"/>
+        </classes>
+
+    </test>
+    <test name="StringLength">
+        <classes>
+            <class name="LengthTest"/>
+        </classes>
+
+    </test> <!-- Test -->
+</suite> <!-- Suite -->

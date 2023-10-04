@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Division"
+           tests="8"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.035">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testValidDiviation"
+                time="0.000"
+                classname="ExampleTest">
+            </testcase>
+            <testcase
+                name="testValidDiviation"
+                time="0.001"
+                classname="ExampleTest">
+            </testcase>
+            <testcase
+                name="testValidDiviation"
+                time="0.016"
+                classname="ExampleTest">
+            </testcase>
+            <testcase
+                name="testValidDiviation"
+                time="0.004"
+                classname="ExampleTest">
+            </testcase>
+            <testcase
+                name="testValidDiviation"
+                time="0.001"
+                classname="ExampleTest">
+            </testcase>
+            <testcase
+                name="testValidDiviation"
+                time="0.000"
+                classname="ExampleTest">
+            </testcase>
+            <testcase
+                name="testInavalidDiviation"
+                time="0.007"
+                classname="ExampleTest">
+            </testcase>
+            <testcase
+                name="testInavalidDiviation"
+                time="0.006"
+                classname="ExampleTest">
+            </testcase>
+</testsuite>
