@@ -7,7 +7,7 @@ public class Calculator {
         }
         return x / y;
     }
-  //function of grade
+  // function of grade
     public String getGrade(int mark) {
         if (mark > 100) {
             return "Invalid";
